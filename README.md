@@ -1,7 +1,7 @@
 # Quantum Computing
 
 
-### Implementation of Quantum Algorithms:
+### Implementation of Quantum Algorithms in Python:
 
 - Bernstein-Vazirani Algorithm
 - Deutsch Algorithm
